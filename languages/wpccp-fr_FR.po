@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-09 03:21+0200\n"
+"PO-Revision-Date: 2012-08-09 03:23+0100\n"
+"Last-Translator: Benoît HUBERT <benoithubert@yahoo.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: class-wpccp-settings.php:18
+#: class-wpccp-settings.php:19
+msgid "Select taxonomy"
+msgstr "Choisissez une taxonomie ( = \"type\" de catégories Wordpress : tags, catégories, ainsi que les catégories spéciales créées pour les types de données particuliers)"
+
+#: class-wpccp-settings.php:24
+msgid "Assign colors to terms"
+msgstr "Attribuer des couleurs aux membres de la taxonomie"
+
+#: class-wpccp-settings.php:59
+msgid "Please select a taxonomy before assigning colors to its terms"
+msgstr "Choisissez une taxonomie avant d'attribuer des couleurs à ses catégories membres"
+
+#: class-wpccp-settings.php:90
+msgid "Click on the box next to a term, to assign it a color"
+msgstr "Cliquez sur le champ à côté de chaque membre, pour lui attribuer une couleur"
+
+#: wp-color-category.php:15
+msgid "Category Colors"
+msgstr "Couleurs des Catégories"
+
