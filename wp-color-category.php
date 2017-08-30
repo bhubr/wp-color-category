@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Color Category
 Description: Assign a color to a category (or more generically, a term)
-Version: 0.9.0 (août 2012)
+Version: 0.9.1 (août 2017)
 Author: Benoit Hubert
 Copyright: 2011-2012 Benoit Hubert
 */
